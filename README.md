@@ -1,5 +1,8 @@
 ### study-of-basic-gates
 
+### Name: Isravel Y
+### Registered number: 212225240054
+
 **AIM:** 
 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
@@ -70,10 +73,20 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
  
 **Logic symbol & Truthtable**
 
+<img width="504" height="676" alt="image" src="https://github.com/user-attachments/assets/1044b38e-74bf-4afb-8471-4a952e06499d" />
+
+
 **RTL realization Output:** 
+<img width="1905" height="540" alt="image" src="https://github.com/user-attachments/assets/d83b306d-7d0b-4cc1-840d-818db65f4357" />
+
+
 
 **RTL**
 
+<img width="377" height="411" alt="image" src="https://github.com/user-attachments/assets/ff797854-3e36-4240-9bce-258c45d6e0fe" />
+
+
 **Result:**
 
+the truth tables and RTL schematics of all basic logic gates were successfully verified using Verilog in Quartus II.
 
